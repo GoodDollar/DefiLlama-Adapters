@@ -11,5 +11,18 @@
 		],
 		"stateMutability": "view",
 		"type": "function"
+	},
+	"totalDelegated": {
+		"type": "function",
+		"stateMutability": "view",
+		"outputs": [
+			{
+				"type": "uint256",
+				"name": "",
+				"internalType": "uint256"
+			}
+		],
+		"name": "totalDelegated",
+		"inputs": []
 	}
-}
+} 
